@@ -20,9 +20,16 @@ Swiggy Clone is a food delivery web application inspired by Swiggy, built using 
 ```
 SwiggyClone/
 │── public/
+├── Data
 │── src/
 │   ├── components/  # Reusable UI components
-│   ├── pages/       # Page components
+|   |    ├── Card.jsx
+|   |    ├── Category.jsx
+|   |    ├── Header.jsx
+|   |    ├── OnlineDelivery.jsx
+|   |    ├── TopRest.jsx
+|   |
+│   |
 │   ├── assets/      # Images & static files
 │   ├── App.js       # Main App component
 │   ├── index.js     # Entry point
