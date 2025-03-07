@@ -61,8 +61,6 @@ npm run dev
   npm run dev
   ```
 
-## 🤝 Contributing
-Feel free to fork this repository and submit pull requests! 🚀
 
 
 
