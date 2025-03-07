@@ -1,4 +1,4 @@
-# Swiggy Clone
+# Swiggy Clone Website
 
 ## 🚀 Project Overview
 Swiggy Clone is a food delivery web application inspired by Swiggy, built using **React.js** and **Tailwind CSS**. It allows users to browse restaurants, search for food, view offers, and manage their cart.
