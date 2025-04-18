@@ -1,17 +1,19 @@
- import { Component } from "react"
-import Header from "./components/Header"
-import Category from "./components/category"
-import TopRest from "./components/TopRest"
-import OnlineDelivery from "./components/OnlineDelivery"
- function App() {
+import { Component } from "react";
+import Header from "./components/Header";
+import Category from "./components/category";
+import TopRest from "./components/TopRest";
+import OnlineDelivery from "./components/OnlineDelivery";
+
+function App() {
   return (
     <>
       <Header />
       <Category />
       <TopRest />
-      <OnlineDelivery/>
+      <OnlineDelivery />
+     
     </>
   );
 }
 
-export default App
+export default App;
