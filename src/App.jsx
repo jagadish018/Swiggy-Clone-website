@@ -1,4 +1,4 @@
-import { Component } from "react";
+
 import Header from "./components/Header";
 import Category from "./components/category";
 import TopRest from "./components/TopRest";
