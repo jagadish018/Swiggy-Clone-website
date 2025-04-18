@@ -1,14 +1,14 @@
 
 import Header from "./components/Header";
-import Category from "./components/category";
 import TopRest from "./components/TopRest";
 import OnlineDelivery from "./components/OnlineDelivery";
+import Category from "./components/category"; 
 
 function App() {
   return (
     <>
       <Header />
-      <Category />
+      <Category/>
       <TopRest />
       <OnlineDelivery />
      
